@@ -1,0 +1,619 @@
+﻿<s:Envelope xmlns:s="http://schemas.xmlsoap.org/soap/envelope/">
+   <s:Body xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <GetLoanDataByLoanNumberResponse xmlns="http://Stater.nl/MyLoanService">
+         <GetLoanDataByLoanNumberResult>
+            <LoanDatas>
+               <LoanData>
+                  <Loans>
+                     <FinancialAgreement xsi:type="Loan">
+                        <Id>307505</Id>
+                        <NumberExternal>307505</NumberExternal>
+                        <TypeOfFinancialAgreement>Loan</TypeOfFinancialAgreement>
+                        <TotalAmount>98100.7</TotalAmount>
+                        <TotalRemainingDebtAmount>97644.51</TotalRemainingDebtAmount>
+                        <CalculationDate>2015-12-01T00:00:00</CalculationDate>
+                        <TechnicalNameProduct>1</TechnicalNameProduct>
+                        <ProductName>Compleet Hypotheek</ProductName>
+                        <TotalTermAmount>442.39</TotalTermAmount>
+                        <CreditLoanCeilingAmount>0</CreditLoanCeilingAmount>
+                        <RegistrationAmount>129453.63</RegistrationAmount>
+                        <OriginalCreditLoanCreditLimit>0</OriginalCreditLoanCreditLimit>
+                        <CreditLoanCreditLimit xsi:nil="true"/>
+                        <WithdrawalCapacity xsi:nil="true"/>
+                        <SurplusProtectionPercentage xsi:nil="true"/>
+                        <Moneylender>
+                           <Id>1227498</Id>
+                           <TypeOfParty>Moneylender</TypeOfParty>
+                           <FullName>Florius</FullName>
+                           <ContactData>
+                              <ContactData>
+                                 <PhoneNumberFixed/>
+                                 <FaxNumber/>
+                                 <TypeOfContactData>Visit</TypeOfContactData>
+                                 <Email/>
+                                 <Address>
+                                    <Street>Ruimtevaart</Street>
+                                    <HouseNumber>24</HouseNumber>
+                                    <ZipCode>3824MX</ZipCode>
+                                    <City>AMERSFOORT</City>
+                                    <IsPostalCodeKnown>true</IsPostalCodeKnown>
+                                    <StartDate>2013-06-17T00:00:00</StartDate>
+                                    <EndDate xsi:nil="true"/>
+                                 </Address>
+                                 <StartDate>2013-06-17T00:00:00</StartDate>
+                                 <EndDate xsi:nil="true"/>
+                                 <IsCurrent>true</IsCurrent>
+                                 <PhoneNumberWork/>
+                                 <PreferCc>P</PreferCc>
+                              </ContactData>
+                              <ContactData>
+                                 <PhoneNumberFixed/>
+                                 <FaxNumber/>
+                                 <TypeOfContactData>Correspond</TypeOfContactData>
+                                 <Email/>
+                                 <Address>
+                                    <Street>Postbus</Street>
+                                    <HouseNumber>1700</HouseNumber>
+                                    <ZipCode>3800BS</ZipCode>
+                                    <City>AMERSFOORT</City>
+                                    <IsPostalCodeKnown>true</IsPostalCodeKnown>
+                                    <StartDate>2006-01-01T00:00:00</StartDate>
+                                    <EndDate xsi:nil="true"/>
+                                 </Address>
+                                 <StartDate>2006-01-01T00:00:00</StartDate>
+                                 <EndDate xsi:nil="true"/>
+                                 <IsCurrent>true</IsCurrent>
+                                 <PhoneNumberWork/>
+                                 <PreferCc>P</PreferCc>
+                              </ContactData>
+                           </ContactData>
+                           <MoneylenderId>1</MoneylenderId>
+                        </Moneylender>
+                        <CollectionAgreements>
+                           <CollectionAgreement>
+                              <PaymentAgreements>
+                                 <PaymentAgreement>
+                                    <Account>
+                                       <TypeOfAccount>AccountForCollectingTerms</TypeOfAccount>
+                                       <AccountNumber>NL65RABO0381619486</AccountNumber>
+                                    </Account>
+                                    <PaymentMethod>AutomaticWithdrawalBank</PaymentMethod>
+                                    <IndexNumberCollection>3</IndexNumberCollection>
+                                    <StartDate>2006-08-01T00:00:00</StartDate>
+                                    <EndDate xsi:nil="true"/>
+                                    <PaymentAgreementLevel>MainPaymentAgreement</PaymentAgreementLevel>
+                                    <CollectionPercentage>100</CollectionPercentage>
+                                    <PaymentAgreementType>Loan</PaymentAgreementType>
+                                    <InsuranceCompanyId xsi:nil="true"/>
+                                    <CollectionOrders>
+                                       <CollectionOrder>
+                                          <CollectionFeature>0000076001046231</CollectionFeature>
+                                          <CollectionDate>2015-12-31T00:00:00</CollectionDate>
+                                       </CollectionOrder>
+                                       <CollectionOrder>
+                                          <CollectionFeature>0000075800462061</CollectionFeature>
+                                          <CollectionDate>2015-11-30T00:00:00</CollectionDate>
+                                       </CollectionOrder>
+                                       <CollectionOrder>
+                                          <CollectionFeature>0000075600012581</CollectionFeature>
+                                          <CollectionDate>2015-10-30T00:00:00</CollectionDate>
+                                       </CollectionOrder>
+                                       <CollectionOrder>
+                                          <CollectionFeature>0000075400184181</CollectionFeature>
+                                          <CollectionDate>2015-09-30T00:00:00</CollectionDate>
+                                       </CollectionOrder>
+                                       <CollectionOrder>
+                                          <CollectionFeature>0000075201352041</CollectionFeature>
+                                          <CollectionDate>2015-08-31T00:00:00</CollectionDate>
+                                       </CollectionOrder>
+                                    </CollectionOrders>
+                                 </PaymentAgreement>
+                              </PaymentAgreements>
+                           </CollectionAgreement>
+                           <CollectionAgreement>
+                              <PaymentAgreements>
+                                 <PaymentAgreement>
+                                    <Account>
+                                       <TypeOfAccount>AccountForCollectingTerms</TypeOfAccount>
+                                       <AccountNumber>NL65RABO0381619486</AccountNumber>
+                                    </Account>
+                                    <PaymentMethod>AutomaticWithdrawalBank</PaymentMethod>
+                                    <IndexNumberCollection>4</IndexNumberCollection>
+                                    <StartDate>2006-08-01T00:00:00</StartDate>
+                                    <EndDate xsi:nil="true"/>
+                                    <PaymentAgreementLevel>MainPaymentAgreement</PaymentAgreementLevel>
+                                    <CollectionPercentage>100</CollectionPercentage>
+                                    <PaymentAgreementType>Police</PaymentAgreementType>
+                                    <PolicyId>30750510</PolicyId>
+                                    <InsuranceCompanyId>1</InsuranceCompanyId>
+                                    <CollectionOrders>
+                                       <CollectionOrder>
+                                          <CollectionFeature>0000076001046231</CollectionFeature>
+                                          <CollectionDate>2015-12-31T00:00:00</CollectionDate>
+                                       </CollectionOrder>
+                                       <CollectionOrder>
+                                          <CollectionFeature>0000075800462061</CollectionFeature>
+                                          <CollectionDate>2015-11-30T00:00:00</CollectionDate>
+                                       </CollectionOrder>
+                                       <CollectionOrder>
+                                          <CollectionFeature>0000075600012581</CollectionFeature>
+                                          <CollectionDate>2015-10-30T00:00:00</CollectionDate>
+                                       </CollectionOrder>
+                                       <CollectionOrder>
+                                          <CollectionFeature>0000075400184181</CollectionFeature>
+                                          <CollectionDate>2015-09-30T00:00:00</CollectionDate>
+                                       </CollectionOrder>
+                                       <CollectionOrder>
+                                          <CollectionFeature>0000075201352041</CollectionFeature>
+                                          <CollectionDate>2015-08-31T00:00:00</CollectionDate>
+                                       </CollectionOrder>
+                                    </CollectionOrders>
+                                 </PaymentAgreement>
+                              </PaymentAgreements>
+                           </CollectionAgreement>
+                        </CollectionAgreements>
+                        <TypeOfConstruction>Existing</TypeOfConstruction>
+                        <LoanToMarketValue>33.32</LoanToMarketValue>
+                        <NotarialDeeds>
+                           <NotarialDeed>
+                              <IndexNumberNotarialDeed>196991</IndexNumberNotarialDeed>
+                              <FinalDatePassingDeed>1992-10-16T00:00:00</FinalDatePassingDeed>
+                           </NotarialDeed>
+                           <NotarialDeed>
+                              <IndexNumberNotarialDeed>1422104</IndexNumberNotarialDeed>
+                              <FinalDatePassingDeed>2006-08-10T00:00:00</FinalDatePassingDeed>
+                           </NotarialDeed>
+                        </NotarialDeeds>
+                     </FinancialAgreement>
+                  </Loans>
+                  <LoanParts>
+                     <FinancialAgreement xsi:type="LoanPart">
+                        <Id>138</Id>
+                        <NumberExternal>138</NumberExternal>
+                        <TypeOfFinancialAgreement>LoanPart</TypeOfFinancialAgreement>
+                        <RedemptionMethod>3</RedemptionMethod>
+                        <ProcessingMethod>Spaar</ProcessingMethod>
+                        <TermInterval>1</TermInterval>
+                        <TermAmount>238.22</TermAmount>
+                        <Amount>48100.7</Amount>
+                        <RemainingDebtAmountClosedBookingPeriod>47644.51</RemainingDebtAmountClosedBookingPeriod>
+                        <Duration>241</Duration>
+                        <LoanPartEndDate>2022-11-01T00:00:00</LoanPartEndDate>
+                        <DeedInterestRate>6</DeedInterestRate>
+                        <SumSurChargeInterestDeviations>0</SumSurChargeInterestDeviations>
+                        <FixedInterestPeriodEndDate>2017-10-01T00:00:00</FixedInterestPeriodEndDate>
+                        <OpenFineFreeAmount>7215.11</OpenFineFreeAmount>
+                        <FixedInterestPeriod>180</FixedInterestPeriod>
+                        <SettleTermWithCreditLoanPart>false</SettleTermWithCreditLoanPart>
+                        <IsIncludedInCeilingCreditLoanPart>false</IsIncludedInCeilingCreditLoanPart>
+                        <MergeIntoCreditLoanPartAllowed xsi:nil="true"/>
+                        <InterestWillBeCapitalized xsi:nil="true"/>
+                        <CollectionAgreementIsApplicable xsi:nil="true"/>
+                        <WithdrawalAgreementAllowed xsi:nil="true"/>
+                        <SwitchAllowed xsi:nil="true"/>
+                        <TypeOfInterest>DayInterest</TypeOfInterest>
+                        <TypeOfWarranty>GG</TypeOfWarranty>
+                        <LoanPartStartDate>2002-10-01T00:00:00</LoanPartStartDate>
+                        <LoanPartInterestComponents>
+                           <LoanPartInterestComponent>
+                              <InterestRate>5.8</InterestRate>
+                              <InterestCategory>Basisrente</InterestCategory>
+                              <InterestDescription>Basisrente</InterestDescription>
+                           </LoanPartInterestComponent>
+                           <LoanPartInterestComponent>
+                              <InterestRate>0</InterestRate>
+                              <InterestCategory>Topopslag</InterestCategory>
+                              <InterestDescription>Topopslag</InterestDescription>
+                           </LoanPartInterestComponent>
+                           <LoanPartInterestComponent>
+                              <InterestRate>0</InterestRate>
+                              <InterestCategory>Periodiek Variabele Rente</InterestCategory>
+                              <InterestDescription>Periodiek Variabele Rente</InterestDescription>
+                           </LoanPartInterestComponent>
+                           <LoanPartInterestComponent>
+                              <InterestRate>0.2</InterestRate>
+                              <InterestCategory>Renteafwijking afloswijze</InterestCategory>
+                              <InterestDescription>Renteafwijking afloswijze</InterestDescription>
+                           </LoanPartInterestComponent>
+                        </LoanPartInterestComponents>
+                        <SurchargeDeterminationMethod>E</SurchargeDeterminationMethod>
+                        <OpenFineFreeAmountNextYear>7215.11</OpenFineFreeAmountNextYear>
+                        <UseRedemptionFineFreeAmountOfLoanPartOnly>false</UseRedemptionFineFreeAmountOfLoanPartOnly>
+                     </FinancialAgreement>
+                     <FinancialAgreement xsi:type="LoanPart">
+                        <Id>146</Id>
+                        <NumberExternal>146</NumberExternal>
+                        <TypeOfFinancialAgreement>LoanPart</TypeOfFinancialAgreement>
+                        <RedemptionMethod>4</RedemptionMethod>
+                        <ProcessingMethod>Aflossingsvrij</ProcessingMethod>
+                        <TermInterval>1</TermInterval>
+                        <TermAmount>204.17</TermAmount>
+                        <Amount>50000</Amount>
+                        <RemainingDebtAmountClosedBookingPeriod>50000</RemainingDebtAmountClosedBookingPeriod>
+                        <Duration>360</Duration>
+                        <LoanPartEndDate>2036-09-01T00:00:00</LoanPartEndDate>
+                        <DeedInterestRate>4.9</DeedInterestRate>
+                        <SumSurChargeInterestDeviations>0</SumSurChargeInterestDeviations>
+                        <FixedInterestPeriodEndDate>2021-08-01T00:00:00</FixedInterestPeriodEndDate>
+                        <OpenFineFreeAmount>7500</OpenFineFreeAmount>
+                        <FixedInterestPeriod>180</FixedInterestPeriod>
+                        <SettleTermWithCreditLoanPart>false</SettleTermWithCreditLoanPart>
+                        <IsIncludedInCeilingCreditLoanPart>false</IsIncludedInCeilingCreditLoanPart>
+                        <MergeIntoCreditLoanPartAllowed xsi:nil="true"/>
+                        <InterestWillBeCapitalized xsi:nil="true"/>
+                        <CollectionAgreementIsApplicable xsi:nil="true"/>
+                        <WithdrawalAgreementAllowed xsi:nil="true"/>
+                        <SwitchAllowed xsi:nil="true"/>
+                        <TypeOfInterest>DayInterest</TypeOfInterest>
+                        <TypeOfWarranty/>
+                        <LoanPartStartDate>2006-08-09T00:00:00</LoanPartStartDate>
+                        <LoanPartInterestComponents>
+                           <LoanPartInterestComponent>
+                              <InterestRate>5.1</InterestRate>
+                              <InterestCategory>Basisrente</InterestCategory>
+                              <InterestDescription>Basisrente</InterestDescription>
+                           </LoanPartInterestComponent>
+                           <LoanPartInterestComponent>
+                              <InterestRate>0</InterestRate>
+                              <InterestCategory>Topopslag</InterestCategory>
+                              <InterestDescription>Topopslag</InterestDescription>
+                           </LoanPartInterestComponent>
+                           <LoanPartInterestComponent>
+                              <InterestRate>0</InterestRate>
+                              <InterestCategory>Periodiek Variabele Rente</InterestCategory>
+                              <InterestDescription>Periodiek Variabele Rente</InterestDescription>
+                           </LoanPartInterestComponent>
+                           <LoanPartInterestComponent>
+                              <InterestRate>0</InterestRate>
+                              <InterestCategory>Renteafwijking afloswijze</InterestCategory>
+                              <InterestDescription>Renteafwijking afloswijze</InterestDescription>
+                           </LoanPartInterestComponent>
+                           <LoanPartInterestComponent>
+                              <InterestRate>-0.2</InterestRate>
+                              <InterestCategory>Aanvullende renteafwijking</InterestCategory>
+                              <InterestDescription>Verhoging notarieel</InterestDescription>
+                           </LoanPartInterestComponent>
+                        </LoanPartInterestComponents>
+                        <SurchargeDeterminationMethod>E</SurchargeDeterminationMethod>
+                        <OpenFineFreeAmountNextYear>7500</OpenFineFreeAmountNextYear>
+                        <UseRedemptionFineFreeAmountOfLoanPartOnly>false</UseRedemptionFineFreeAmountOfLoanPartOnly>
+                     </FinancialAgreement>
+                  </LoanParts>
+                  <SellingOrganisation xsi:type="SellingOrganisation">
+                     <Id>337724</Id>
+                     <TypeOfParty>SellingOrganisation</TypeOfParty>
+                     <FullName>Adviesburo Wegro</FullName>
+                     <ContactData>
+                        <ContactData>
+                           <PhoneNumberFixed/>
+                           <FaxNumber>
+                              <Number>026 3815097</Number>
+                           </FaxNumber>
+                           <TypeOfContactData>Visit</TypeOfContactData>
+                           <Email>
+                              <Email>adviesburo@wegro.nl</Email>
+                           </Email>
+                           <Address>
+                              <Street>I W J Vos De Waelstraat</Street>
+                              <HouseNumber>8</HouseNumber>
+                              <ZipCode>6842AW</ZipCode>
+                              <City>ARNHEM</City>
+                              <IsPostalCodeKnown>true</IsPostalCodeKnown>
+                              <StartDate>1994-06-25T00:00:00</StartDate>
+                              <EndDate xsi:nil="true"/>
+                           </Address>
+                           <StartDate>1994-06-25T00:00:00</StartDate>
+                           <EndDate xsi:nil="true"/>
+                           <IsCurrent>true</IsCurrent>
+                           <PhoneNumberWork>
+                              <Number>026 3812602</Number>
+                           </PhoneNumberWork>
+                           <PreferCc>E</PreferCc>
+                        </ContactData>
+                        <ContactData>
+                           <PhoneNumberFixed/>
+                           <FaxNumber>
+                              <Number>026 3815097</Number>
+                           </FaxNumber>
+                           <TypeOfContactData>Correspond</TypeOfContactData>
+                           <Email>
+                              <Email>adviesburo@wegro.nl</Email>
+                           </Email>
+                           <Address>
+                              <Street>I W J Vos De Waelstraat</Street>
+                              <HouseNumber>8</HouseNumber>
+                              <ZipCode>6842AW</ZipCode>
+                              <City>ARNHEM</City>
+                              <IsPostalCodeKnown>true</IsPostalCodeKnown>
+                              <StartDate>1994-06-25T00:00:00</StartDate>
+                              <EndDate xsi:nil="true"/>
+                           </Address>
+                           <StartDate>1994-06-25T00:00:00</StartDate>
+                           <EndDate xsi:nil="true"/>
+                           <IsCurrent>true</IsCurrent>
+                           <PhoneNumberWork>
+                              <Number>026 3812602</Number>
+                           </PhoneNumberWork>
+                           <PreferCc>E</PreferCc>
+                        </ContactData>
+                     </ContactData>
+                  </SellingOrganisation>
+                  <RealEstates>
+                     <Asset xsi:type="RealEstate">
+                        <Id>171478</Id>
+                        <TypeOfAsset>RealEstate</TypeOfAsset>
+                        <Name>RealEstate</Name>
+                        <StartDate xsi:nil="true"/>
+                        <IsMainCollateral>true</IsMainCollateral>
+                        <Address>
+                           <Street>Abraham Kuyperstraat</Street>
+                           <HouseNumber>28</HouseNumber>
+                           <ZipCode>6904BJ</ZipCode>
+                           <City>ZEVENAAR</City>
+                           <IsPostalCodeKnown>true</IsPostalCodeKnown>
+                           <StartDate xsi:nil="true"/>
+                           <EndDate xsi:nil="true"/>
+                        </Address>
+                        <ConstructionYear xsi:nil="true"/>
+                        <MarketValueAfterRenovation>205000</MarketValueAfterRenovation>
+                        <ForcedSaleValue>180000</ForcedSaleValue>
+                        <PrivatelyPlacedSaleValue>205000</PrivatelyPlacedSaleValue>
+                        <ConstructionPlanName/>
+                        <TypeOfRealEstate>Main</TypeOfRealEstate>
+                        <CollateralLoans/>
+                        <CollateralHasMultipleLoans>false</CollateralHasMultipleLoans>
+                        <MarketValue>211764.7059</MarketValue>
+                     </Asset>
+                  </RealEstates>
+                  <LifeInsurancePolicies/>
+                  <EndowmentPolicies>
+                     <Asset xsi:type="EndowmentPolicy">
+                        <Id xsi:nil="true"/>
+                        <TypeOfAsset>EndowmentPolicy</TypeOfAsset>
+                        <Name>Endowment</Name>
+                        <StartDate>1992-11-01T00:00:00</StartDate>
+                        <InsuredAmountWhenLiving>47644.65</InsuredAmountWhenLiving>
+                        <SurrenderValue xsi:nil="true"/>
+                        <IsManaged>true</IsManaged>
+                        <InsuranceCompany xsi:type="InsuranceCompany">
+                           <Id>262581</Id>
+                           <TypeOfParty>Insurer</TypeOfParty>
+                           <FullName>REAAL Levensverzekeringen (SRLEV N.V.)</FullName>
+                           <ContactData>
+                              <ContactData>
+                                 <PhoneNumberFixed>
+                                    <Number>072 5194194</Number>
+                                 </PhoneNumberFixed>
+                                 <FaxNumber>
+                                    <Number>072 5194208</Number>
+                                 </FaxNumber>
+                                 <TypeOfContactData>Visit</TypeOfContactData>
+                                 <Email/>
+                                 <Address>
+                                    <Street>Postbus</Street>
+                                    <HouseNumber>274</HouseNumber>
+                                    <ZipCode>1800BH</ZipCode>
+                                    <City>ALKMAAR</City>
+                                    <IsPostalCodeKnown>true</IsPostalCodeKnown>
+                                    <StartDate>1991-11-15T00:00:00</StartDate>
+                                    <EndDate xsi:nil="true"/>
+                                 </Address>
+                                 <StartDate>1991-11-15T00:00:00</StartDate>
+                                 <EndDate xsi:nil="true"/>
+                                 <IsCurrent>true</IsCurrent>
+                                 <PhoneNumberWork/>
+                                 <PreferCc>F</PreferCc>
+                              </ContactData>
+                           </ContactData>
+                           <NameForOffer>REAAL Levensverzekeringen, handelsnaam van SRLEV N.V.</NameForOffer>
+                           <InsuranceCompanyId>1</InsuranceCompanyId>
+                        </InsuranceCompany>
+                        <PolicyId>30750510</PolicyId>
+                        <Policyholders>
+                           <Party xsi:type="PolicyHolder">
+                              <Id>635068</Id>
+                              <TypeOfParty>EndowmentPolicyholder</TypeOfParty>
+                              <ContactData>
+                                 <ContactData>
+                                    <PhoneNumberFixed>
+                                       <Number>0316 340294</Number>
+                                    </PhoneNumberFixed>
+                                    <FaxNumber/>
+                                    <TypeOfContactData>Visit</TypeOfContactData>
+                                    <Email/>
+                                    <Address>
+                                       <Street>A Kuyperstraat</Street>
+                                       <HouseNumber>28</HouseNumber>
+                                       <ZipCode>6904BJ</ZipCode>
+                                       <City>ZEVENAAR</City>
+                                       <IsPostalCodeKnown>true</IsPostalCodeKnown>
+                                       <StartDate>1993-01-06T00:00:00</StartDate>
+                                       <EndDate xsi:nil="true"/>
+                                    </Address>
+                                    <StartDate>1993-01-06T00:00:00</StartDate>
+                                    <EndDate xsi:nil="true"/>
+                                    <IsCurrent>true</IsCurrent>
+                                    <PhoneNumberWork/>
+                                    <PreferCc>P</PreferCc>
+                                 </ContactData>
+                              </ContactData>
+                              <LastName>Kaaijk</LastName>
+                              <FirstName>Jacques</FirstName>
+                              <Initials>J.</Initials>
+                              <BirthDate>1961-08-08T00:00:00</BirthDate>
+                              <RegisteredSex>male</RegisteredSex>
+                              <TypeOfTitle>Geen</TypeOfTitle>
+                              <TypeOfMaritalState>Married1</TypeOfMaritalState>
+                              <BSN>161398364</BSN>
+                              <Introductory>Geachte heer</Introductory>
+                              <OrderIndex>1</OrderIndex>
+                           </Party>
+                           <Party xsi:type="PolicyHolder">
+                              <Id>635069</Id>
+                              <TypeOfParty>EndowmentPolicyholder</TypeOfParty>
+                              <ContactData/>
+                              <LastName>Huisman</LastName>
+                              <FirstName>Berta Hendrika</FirstName>
+                              <Initials>B.H.</Initials>
+                              <BirthDate>1965-03-09T00:00:00</BirthDate>
+                              <RegisteredSex>female</RegisteredSex>
+                              <TypeOfTitle>Geen</TypeOfTitle>
+                              <TypeOfMaritalState>Married1</TypeOfMaritalState>
+                              <BSN>100159011</BSN>
+                              <Introductory>Geachte mevrouw</Introductory>
+                              <OrderIndex>2</OrderIndex>
+                           </Party>
+                        </Policyholders>
+                        <InsuredPersons>
+                           <Party xsi:type="InsuredPerson">
+                              <Id>635068</Id>
+                              <TypeOfParty>EndowmentPolicyInsuredPerson</TypeOfParty>
+                              <ContactData>
+                                 <ContactData>
+                                    <PhoneNumberFixed>
+                                       <Number>0316 340294</Number>
+                                    </PhoneNumberFixed>
+                                    <FaxNumber/>
+                                    <TypeOfContactData>Visit</TypeOfContactData>
+                                    <Email/>
+                                    <Address>
+                                       <Street>A Kuyperstraat</Street>
+                                       <HouseNumber>28</HouseNumber>
+                                       <ZipCode>6904BJ</ZipCode>
+                                       <City>ZEVENAAR</City>
+                                       <IsPostalCodeKnown>true</IsPostalCodeKnown>
+                                       <StartDate>1993-01-06T00:00:00</StartDate>
+                                       <EndDate xsi:nil="true"/>
+                                    </Address>
+                                    <StartDate>1993-01-06T00:00:00</StartDate>
+                                    <EndDate xsi:nil="true"/>
+                                    <IsCurrent>true</IsCurrent>
+                                    <PhoneNumberWork/>
+                                    <PreferCc>P</PreferCc>
+                                 </ContactData>
+                              </ContactData>
+                              <LastName>Kaaijk</LastName>
+                              <FirstName>Jacques</FirstName>
+                              <Initials>J.</Initials>
+                              <BirthDate>1961-08-08T00:00:00</BirthDate>
+                              <RegisteredSex>male</RegisteredSex>
+                              <TypeOfTitle>Geen</TypeOfTitle>
+                              <TypeOfMaritalState>Married1</TypeOfMaritalState>
+                              <BSN>161398364</BSN>
+                              <Introductory>Geachte heer</Introductory>
+                              <OrderIndex>1</OrderIndex>
+                           </Party>
+                        </InsuredPersons>
+                        <NumberLoanPart>138</NumberLoanPart>
+                        <Duration>360</Duration>
+                        <TypeOfConnection>Connected</TypeOfConnection>
+                        <SavingsValueClosedBookingPeriod>27077.73</SavingsValueClosedBookingPeriod>
+                        <SavingsPremium>65.16</SavingsPremium>
+                        <RiskPremium>14.82</RiskPremium>
+                        <PremiumDepositValueClosedBookingPeriod xsi:nil="true"/>
+                        <InterestCompensation xsi:nil="true"/>
+                     </Asset>
+                  </EndowmentPolicies>
+                  <InvestmentAccounts/>
+                  <Applicants>
+                     <Party xsi:type="Applicant">
+                        <Id>635068</Id>
+                        <TypeOfParty>PrivatePerson</TypeOfParty>
+                        <ContactData>
+                           <ContactData>
+                              <PhoneNumberFixed>
+                                 <Number>0316 340294</Number>
+                              </PhoneNumberFixed>
+                              <FaxNumber/>
+                              <TypeOfContactData>Visit</TypeOfContactData>
+                              <Email/>
+                              <Address>
+                                 <Street>A Kuyperstraat</Street>
+                                 <HouseNumber>28</HouseNumber>
+                                 <ZipCode>6904BJ</ZipCode>
+                                 <City>ZEVENAAR</City>
+                                 <IsPostalCodeKnown>true</IsPostalCodeKnown>
+                                 <StartDate>1993-01-06T00:00:00</StartDate>
+                                 <EndDate xsi:nil="true"/>
+                              </Address>
+                              <StartDate>1993-01-06T00:00:00</StartDate>
+                              <EndDate xsi:nil="true"/>
+                              <IsCurrent>true</IsCurrent>
+                              <PhoneNumberWork/>
+                              <PreferCc>P</PreferCc>
+                           </ContactData>
+                        </ContactData>
+                        <LastName>Kaaijk</LastName>
+                        <FirstName>Jacques</FirstName>
+                        <Initials>J.</Initials>
+                        <BirthDate>1961-08-08T00:00:00</BirthDate>
+                        <RegisteredSex>male</RegisteredSex>
+                        <TypeOfTitle>Geen</TypeOfTitle>
+                        <TypeOfMaritalState>Married1</TypeOfMaritalState>
+                        <BSN>161398364</BSN>
+                        <Introductory>Geachte heer</Introductory>
+                        <ApplicantId>385870</ApplicantId>
+                        <IsMainApplicant>true</IsMainApplicant>
+                        <TypeOfApplicant>MainApplicant</TypeOfApplicant>
+                        <ClientName>J. Kaaijk B.H. Huisman</ClientName>
+                     </Party>
+                     <Party xsi:type="Applicant">
+                        <Id>635069</Id>
+                        <TypeOfParty>PrivatePerson</TypeOfParty>
+                        <ContactData/>
+                        <LastName>Huisman</LastName>
+                        <FirstName>Berta Hendrika</FirstName>
+                        <Initials>B.H.</Initials>
+                        <BirthDate>1965-03-09T00:00:00</BirthDate>
+                        <RegisteredSex>female</RegisteredSex>
+                        <TypeOfTitle>Geen</TypeOfTitle>
+                        <TypeOfMaritalState>Married1</TypeOfMaritalState>
+                        <BSN>100159011</BSN>
+                        <Introductory>Geachte mevrouw</Introductory>
+                        <ApplicantId>385870</ApplicantId>
+                        <IsMainApplicant xsi:nil="true"/>
+                        <TypeOfApplicant>Applicant</TypeOfApplicant>
+                        <ClientName>J. Kaaijk B.H. Huisman</ClientName>
+                     </Party>
+                  </Applicants>
+                  <Processes/>
+                  <OfkaLoanData/>
+                  <LoanPartsRedempted>
+                     <FinancialAgreement xsi:type="LoanPartRedempted">
+                        <Id>120</Id>
+                        <NumberExternal>120</NumberExternal>
+                        <TypeOfFinancialAgreement>LoanPartRedempted</TypeOfFinancialAgreement>
+                        <RedemptionMethod>1</RedemptionMethod>
+                        <ProcessingMethod>Annuiteit</ProcessingMethod>
+                        <TermInterval>1</TermInterval>
+                        <TermAmount>0</TermAmount>
+                        <Amount>6352.92</Amount>
+                        <RemainingDebtAmountClosedBookingPeriod>0</RemainingDebtAmountClosedBookingPeriod>
+                        <Duration>60</Duration>
+                        <LoanPartEndDate>1997-11-01T00:00:00</LoanPartEndDate>
+                        <DeedInterestRate xsi:nil="true"/>
+                        <SumSurChargeInterestDeviations xsi:nil="true"/>
+                        <FixedInterestPeriodEndDate xsi:nil="true"/>
+                        <OpenFineFreeAmount>952.94</OpenFineFreeAmount>
+                        <FixedInterestPeriod>60</FixedInterestPeriod>
+                        <SettleTermWithCreditLoanPart>false</SettleTermWithCreditLoanPart>
+                        <IsIncludedInCeilingCreditLoanPart>false</IsIncludedInCeilingCreditLoanPart>
+                        <MergeIntoCreditLoanPartAllowed xsi:nil="true"/>
+                        <InterestWillBeCapitalized xsi:nil="true"/>
+                        <CollectionAgreementIsApplicable xsi:nil="true"/>
+                        <WithdrawalAgreementAllowed xsi:nil="true"/>
+                        <SwitchAllowed xsi:nil="true"/>
+                        <TypeOfInterest>DayInterest</TypeOfInterest>
+                        <TypeOfWarranty>GG</TypeOfWarranty>
+                        <LoanPartStartDate>1992-10-14T00:00:00</LoanPartStartDate>
+                        <LoanPartInterestComponents/>
+                        <SurchargeDeterminationMethod>E</SurchargeDeterminationMethod>
+                        <UseRedemptionFineFreeAmountOfLoanPartOnly>false</UseRedemptionFineFreeAmountOfLoanPartOnly>
+                     </FinancialAgreement>
+                  </LoanPartsRedempted>
+               </LoanData>
+            </LoanDatas>
+         </GetLoanDataByLoanNumberResult>
+      </GetLoanDataByLoanNumberResponse>
+   </s:Body>
+</s:Envelope>

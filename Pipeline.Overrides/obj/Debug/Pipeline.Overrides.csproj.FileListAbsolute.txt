@@ -1,0 +1,6 @@
+C:\Users\nvoort\Documents\Visual Studio 2012\Projects\SaveMessages\Pipeline.Overrides\bin\Debug\Microsoft.BizTalk.TOM.dll
+C:\Users\nvoort\Documents\Visual Studio 2012\Projects\SaveMessages\Pipeline.Overrides\bin\Debug\PipelineObjects.dll
+C:\Users\nvoort\Documents\Visual Studio 2012\Projects\SaveMessages\Pipeline.Overrides\bin\Debug\SaveMessages.Pipeline.Overrides.dll
+C:\Users\nvoort\Documents\Visual Studio 2012\Projects\SaveMessages\Pipeline.Overrides\bin\Debug\SaveMessages.Pipeline.Overrides.pdb
+C:\Users\nvoort\Documents\Visual Studio 2012\Projects\SaveMessages\Pipeline.Overrides\obj\Debug\SaveMessages.Pipeline.Overrides.dll
+C:\Users\nvoort\Documents\Visual Studio 2012\Projects\SaveMessages\Pipeline.Overrides\obj\Debug\SaveMessages.Pipeline.Overrides.pdb
