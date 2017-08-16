@@ -16,3 +16,15 @@ D:\Projects\AB\SaveMessages\SaveMessages\ExtensionMethods\bin\Debug\SaveMessages
 D:\Projects\AB\SaveMessages\SaveMessages\ExtensionMethods\obj\Debug\ExtensionMethods.csprojResolveAssemblyReference.cache
 D:\Projects\AB\SaveMessages\SaveMessages\ExtensionMethods\obj\Debug\SaveMessages.ExtensionMethods.dll
 D:\Projects\AB\SaveMessages\SaveMessages\ExtensionMethods\obj\Debug\SaveMessages.ExtensionMethods.pdb
+C:\Users\nvoort\Source\Repos\SaveMessages\ExtensionMethods\bin\Debug\SaveMessages.ExtensionMethods.dll
+C:\Users\nvoort\Source\Repos\SaveMessages\ExtensionMethods\bin\Debug\SaveMessages.ExtensionMethods.pdb
+C:\Users\nvoort\Source\Repos\SaveMessages\ExtensionMethods\bin\Debug\Microsoft.BizTalk.Component.Utilities.dll
+C:\Users\nvoort\Source\Repos\SaveMessages\ExtensionMethods\bin\Debug\Microsoft.BizTalk.Pipeline.dll
+C:\Users\nvoort\Source\Repos\SaveMessages\ExtensionMethods\bin\Debug\PipelineObjects.dll
+C:\Users\nvoort\Source\Repos\SaveMessages\ExtensionMethods\bin\Debug\SaveMessages.Pipeline.Overrides.dll
+C:\Users\nvoort\Source\Repos\SaveMessages\ExtensionMethods\bin\Debug\Microsoft.XLANGs.BaseTypes.dll
+C:\Users\nvoort\Source\Repos\SaveMessages\ExtensionMethods\bin\Debug\Microsoft.XLANGs.Engine.dll
+C:\Users\nvoort\Source\Repos\SaveMessages\ExtensionMethods\bin\Debug\SaveMessages.Pipeline.Overrides.pdb
+C:\Users\nvoort\Source\Repos\SaveMessages\ExtensionMethods\obj\Debug\ExtensionMethods.csprojResolveAssemblyReference.cache
+C:\Users\nvoort\Source\Repos\SaveMessages\ExtensionMethods\obj\Debug\SaveMessages.ExtensionMethods.dll
+C:\Users\nvoort\Source\Repos\SaveMessages\ExtensionMethods\obj\Debug\SaveMessages.ExtensionMethods.pdb

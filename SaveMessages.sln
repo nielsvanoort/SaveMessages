@@ -1,27 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.13
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SaveMessages", "SaveMessages.csproj", "{A3E030B1-9EE0-4369-834F-4C53367E4E4E}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessageExtraction", "..\MessageExtractor\MessageExtraction.csproj", "{3A170BEE-C1D5-4EB6-A9DB-C17608C02E1E}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtensionMethods", "ExtensionMethods\ExtensionMethods.csproj", "{595AD742-46E3-49E4-8107-92A87BB1976D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessageExtraction", "MessageExtractor\MessageExtraction.csproj", "{3A170BEE-C1D5-4EB6-A9DB-C17608C02E1E}"
+EndProject
 Global
-	GlobalSection(TeamFoundationVersionControl) = preSolution
-		SccNumberOfProjects = 4
-		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
-		SccTeamFoundationServer = http://tfs.aahg.nl:8080/sf
-		SccLocalPath0 = .
-		SccProjectUniqueName1 = SaveMessages.csproj
-		SccLocalPath1 = .
-		SccProjectUniqueName2 = ..\\MessageExtractor\\MessageExtraction.csproj
-		SccProjectName2 = ../MessageExtractor
-		SccLocalPath2 = ..\\MessageExtractor
-		SccProjectUniqueName3 = ExtensionMethods\\ExtensionMethods.csproj
-		SccProjectName3 = ExtensionMethods
-		SccLocalPath3 = ExtensionMethods
-	EndGlobalSection
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
@@ -31,14 +19,14 @@ Global
 		{A3E030B1-9EE0-4369-834F-4C53367E4E4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A3E030B1-9EE0-4369-834F-4C53367E4E4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A3E030B1-9EE0-4369-834F-4C53367E4E4E}.Release|Any CPU.Build.0 = Release|Any CPU
-		{3A170BEE-C1D5-4EB6-A9DB-C17608C02E1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{3A170BEE-C1D5-4EB6-A9DB-C17608C02E1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{3A170BEE-C1D5-4EB6-A9DB-C17608C02E1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{3A170BEE-C1D5-4EB6-A9DB-C17608C02E1E}.Release|Any CPU.Build.0 = Release|Any CPU
 		{595AD742-46E3-49E4-8107-92A87BB1976D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{595AD742-46E3-49E4-8107-92A87BB1976D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{595AD742-46E3-49E4-8107-92A87BB1976D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{595AD742-46E3-49E4-8107-92A87BB1976D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A170BEE-C1D5-4EB6-A9DB-C17608C02E1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A170BEE-C1D5-4EB6-A9DB-C17608C02E1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A170BEE-C1D5-4EB6-A9DB-C17608C02E1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A170BEE-C1D5-4EB6-A9DB-C17608C02E1E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -210,13 +210,13 @@
     </Content>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\MessageExtractor\MessageExtraction.csproj">
-      <Project>{3a170bee-c1d5-4eb6-a9db-c17608c02e1e}</Project>
-      <Name>MessageExtraction</Name>
-    </ProjectReference>
     <ProjectReference Include="ExtensionMethods\ExtensionMethods.csproj">
       <Project>{595ad742-46e3-49e4-8107-92a87bb1976d}</Project>
       <Name>ExtensionMethods</Name>
+    </ProjectReference>
+    <ProjectReference Include="MessageExtractor\MessageExtraction.csproj">
+      <Project>{3a170bee-c1d5-4eb6-a9db-c17608c02e1e}</Project>
+      <Name>MessageExtraction</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

@@ -1,0 +1,35 @@
+C:\Users\nvoort\Documents\Visual Studio 2012\Projects\MessageExtractor\bin\Debug\MessageExtractor.dll
+C:\Users\nvoort\Documents\Visual Studio 2012\Projects\MessageExtractor\bin\Debug\MessageExtractor.pdb
+C:\Users\nvoort\Documents\Visual Studio 2012\Projects\MessageExtractor\obj\Debug\MessageExtractor.dll
+C:\Users\nvoort\Documents\Visual Studio 2012\Projects\MessageExtractor\obj\Debug\MessageExtractor.pdb
+C:\Users\nvoort\Documents\Visual Studio 2012\Projects\MessageExtractor\obj\Debug\MessageExtraction.csprojResolveAssemblyReference.cache
+C:\Users\nvoort\Documents\Visual Studio 2012\Projects\MessageExtractor\bin\Debug\SaveMessages.ExtensionMethods.dll
+C:\Users\nvoort\Documents\Visual Studio 2012\Projects\MessageExtractor\bin\Debug\SaveMessages.Pipeline.Overrides.dll
+C:\Users\nvoort\Documents\Visual Studio 2012\Projects\MessageExtractor\bin\Debug\PipelineObjects.dll
+C:\Users\nvoort\Documents\Visual Studio 2012\Projects\MessageExtractor\bin\Debug\SaveMessages.ExtensionMethods.pdb
+C:\Users\nvoort\Documents\Visual Studio 2012\Projects\MessageExtractor\bin\Debug\SaveMessages.Pipeline.Overrides.pdb
+D:\Projects\AB\SaveMessages\MessageExtractor\bin\Debug\MessageExtractor.dll
+D:\Projects\AB\SaveMessages\MessageExtractor\bin\Debug\MessageExtractor.pdb
+D:\Projects\AB\SaveMessages\MessageExtractor\bin\Debug\Microsoft.BizTalk.Pipeline.dll
+D:\Projects\AB\SaveMessages\MessageExtractor\bin\Debug\SaveMessages.ExtensionMethods.dll
+D:\Projects\AB\SaveMessages\MessageExtractor\bin\Debug\SaveMessages.Pipeline.Overrides.dll
+D:\Projects\AB\SaveMessages\MessageExtractor\bin\Debug\Microsoft.XLANGs.BaseTypes.dll
+D:\Projects\AB\SaveMessages\MessageExtractor\bin\Debug\PipelineObjects.dll
+D:\Projects\AB\SaveMessages\MessageExtractor\bin\Debug\SaveMessages.ExtensionMethods.pdb
+D:\Projects\AB\SaveMessages\MessageExtractor\bin\Debug\SaveMessages.Pipeline.Overrides.pdb
+D:\Projects\AB\SaveMessages\MessageExtractor\obj\Debug\MessageExtraction.csprojResolveAssemblyReference.cache
+D:\Projects\AB\SaveMessages\MessageExtractor\obj\Debug\MessageExtractor.dll
+D:\Projects\AB\SaveMessages\MessageExtractor\obj\Debug\MessageExtractor.pdb
+C:\Users\nvoort\Source\Repos\SaveMessages\MessageExtractor\bin\Debug\MessageExtractor.dll
+C:\Users\nvoort\Source\Repos\SaveMessages\MessageExtractor\bin\Debug\MessageExtractor.pdb
+C:\Users\nvoort\Source\Repos\SaveMessages\MessageExtractor\bin\Debug\Microsoft.BizTalk.Component.Utilities.dll
+C:\Users\nvoort\Source\Repos\SaveMessages\MessageExtractor\bin\Debug\Microsoft.BizTalk.Pipeline.dll
+C:\Users\nvoort\Source\Repos\SaveMessages\MessageExtractor\bin\Debug\SaveMessages.ExtensionMethods.dll
+C:\Users\nvoort\Source\Repos\SaveMessages\MessageExtractor\bin\Debug\SaveMessages.Pipeline.Overrides.dll
+C:\Users\nvoort\Source\Repos\SaveMessages\MessageExtractor\bin\Debug\Microsoft.XLANGs.BaseTypes.dll
+C:\Users\nvoort\Source\Repos\SaveMessages\MessageExtractor\bin\Debug\PipelineObjects.dll
+C:\Users\nvoort\Source\Repos\SaveMessages\MessageExtractor\bin\Debug\SaveMessages.ExtensionMethods.pdb
+C:\Users\nvoort\Source\Repos\SaveMessages\MessageExtractor\bin\Debug\SaveMessages.Pipeline.Overrides.pdb
+C:\Users\nvoort\Source\Repos\SaveMessages\MessageExtractor\obj\Debug\MessageExtraction.csprojResolveAssemblyReference.cache
+C:\Users\nvoort\Source\Repos\SaveMessages\MessageExtractor\obj\Debug\MessageExtractor.dll
+C:\Users\nvoort\Source\Repos\SaveMessages\MessageExtractor\obj\Debug\MessageExtractor.pdb
